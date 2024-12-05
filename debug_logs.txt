@@ -1,0 +1,7 @@
+Request to https://mhril-apis-uat.clubmahindra.com/api/v1/getToken: Array
+(
+    [ClientID] => N0UxRUJEMkMwRjI3
+    [ClientKey] => JDJhJDA4JC5XY3A3QUtOOHQxSVUvdkdKSkZXZnVPMHNjZS50T2htWmpCOGYuYzY4VFhOTzRDbVdGSWhp
+)
+
+Response: {"message":"Invalid credentials","code":404,"status_code":500} | HTTP Code: 500

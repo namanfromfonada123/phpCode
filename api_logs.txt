@@ -1,0 +1,42 @@
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
+First API Response: Array
+(
+    [response] => {"message":"Invalid credentials","code":404,"status_code":500}
+    [httpStatusCode] => 500
+)
+
